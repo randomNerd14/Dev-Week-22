@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-        <h2><b>Organised by EEESoc BIT Mesra</b></h2>
+        <h3><b>Organised by EEESoc BIT Mesra</b></h3>
 </div>
 
 
