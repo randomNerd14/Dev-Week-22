@@ -31,3 +31,10 @@ For doubts regarding pull requests ping your Group Admins.
 # Note
 
 Pdf for the details of the projects :- [Details regarding projects](https://drive.google.com/file/d/1icYuDPn40fuO6nrgyWBV9wpzHNXLRIF2/view?usp=sharing)
+- You can contact any senior on Whatsapp group for any doubts. No matter how small or basic the doubt is, don't hesitate to ask it.
+- You can also add extra features such as more sections, animations, fonts, etc.
+
+# Coordinators
+
+- [Ankur Pandey](https://github.com/AnkurPandey07)
+- [Pushkal Kishore](https://github.com/pushkalkishore)
