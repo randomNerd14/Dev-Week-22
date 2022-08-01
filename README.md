@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-        <h2><b>Organised by EEESoc BIT Mesra</b></h2>
+        <font size="8"><b>Organised by EEESoc BIT Mesra</b></font>
 </div>
 
 # About the Event
