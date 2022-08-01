@@ -6,6 +6,7 @@
         <h3><b>Organised by EEESoc BIT Mesra</b></h3>
 </div>
 
+This is Rishav Sarkar. And this is my first edit and commit.
 
 # About the Event
 
