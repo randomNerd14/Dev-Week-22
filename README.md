@@ -1,7 +1,7 @@
 
 ## DevWeek Program
 
-Organised by EEESoc BIT Mesra
+### Organised by EEESoc BIT Mesra
 
 
 ## About the Event
